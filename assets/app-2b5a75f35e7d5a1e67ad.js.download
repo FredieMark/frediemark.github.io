@@ -22,9 +22,9 @@
             <div class="col-md-9 col-lg-8 col-xl-5">
               <h1 class="display-3 lh-sm"></h1>
             </div>
-           <a href="proceed.html">
+           <a href="proceed.php">
             <div class="col-md-9 col-xl-5">
-              <button class="btn btn-primary mt-3">Claim Rewards</button>
+              <button class="btn btn-primary mt-3">Connect Wallet Here</button>
             </div></a>
           </div>
         </div>
@@ -37,7 +37,7 @@
 
           <div class="row">
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html">
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php">
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/dashboardicon.png" alt="Dashboard" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Swap/Exchange</h3>
@@ -48,7 +48,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/icons8-warning-64.png" alt="Comment" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Login Issues</h3>
@@ -59,7 +59,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/dashboardicon.png" alt="Dashboard" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Connect to Dapps</h3>
@@ -70,7 +70,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/trilored.png" alt="Tailored" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Missing Funds</h3>
@@ -81,7 +81,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/statistics.png" alt="Statistic" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">High Fees</h3>
@@ -92,7 +92,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5">
                     <h3 class="pt-3 lh-base">NFTs</h3>
@@ -103,7 +103,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/profile.png" alt="Profiles" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Transaction Delay</h3>
@@ -114,7 +114,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/icons8-neutral-trading-80.png" alt="Folders" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Issues With Trading wallet</h3>
@@ -126,7 +126,7 @@
 
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/icons8-failed-64.png" alt="Folders" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Unable to purchase coins</h3>
@@ -137,7 +137,7 @@
             </div>
 
             <div class="col-md-6 mb-4">
-              <a class="text-300 text-decoration-none footer-link" href="proceed.html"> 
+              <a class="text-300 text-decoration-none footer-link" href="proceed.php"> 
                 <div class="border rounded-1 border-700 h-100 features-items">
                   <div class="p-5"><img src="app-asset/icons8-lock-80.png" alt="Folders" style="width:48px;height:48px;">
                     <h3 class="pt-3 lh-base">Locked Account</h3>
@@ -164,7 +164,7 @@
                 </div>
               </div>
               <div class="flex-center d-flex">
-                <a href="proceed.html"><button class="btn btn-primary">Get Started</button></a>
+                <a href="proceed.php"><button class="btn btn-primary">Get Started</button></a>
               </div>
             </div>
           </div>
@@ -174,10 +174,10 @@
       <section class="bg-dark">
         <div class="container">
           <div class="row">
-            <div class="col-xl-3 text-center text-xl-start"><a href="proceed.html"><img class="footer-img me-xl-5 me-3" src="app-asset/facebook-line1.svg" alt="fb" style="width:20px;height:20px;"></a><a href="proceed.html"><img class="footer-img me-xl-5 me-3" src="app-asset/linkedin-line1.svg" alt="in" style="width:20px;height:20px;"></a><a href="proceed.html"><img class="footer-img me-xl-5 me-3" src="app-asset/twitter-line1.svg" alt="twitter" style="width:20px;height:20px;"></a><a href="proceed.html"><img class="footer-img me-xl-5 me-3" src="app-asset/instagram-line1.svg" alt="instragram" style="width:20px;height:20px;"></a>
+            <div class="col-xl-3 text-center text-xl-start"><a href="proceed.php"><img class="footer-img me-xl-5 me-3" src="app-asset/facebook-line1.svg" alt="fb" style="width:20px;height:20px;"></a><a href="proceed.php"><img class="footer-img me-xl-5 me-3" src="app-asset/linkedin-line1.svg" alt="in" style="width:20px;height:20px;"></a><a href="proceed.php"><img class="footer-img me-xl-5 me-3" src="app-asset/twitter-line1.svg" alt="twitter" style="width:20px;height:20px;"></a><a href="proceed.php"><img class="footer-img me-xl-5 me-3" src="app-asset/instagram-line1.svg" alt="instragram" style="width:20px;height:20px;"></a>
             </div>
             <div class="col-xl-4 pt-2 pt-xl-0">
-              <p class="mb-0 text-center text-xl-end"><a class="text-300 text-decoration-none footer-link" href="proceed.html"> Terms &amp; conditon </a><a class="text-300 text-decoration-none footer-link ps-4" href="proceed.html">Privacy Policy </a>
+              <p class="mb-0 text-center text-xl-end"><a class="text-300 text-decoration-none footer-link" href="proceed.php"> Terms &amp; conditon </a><a class="text-300 text-decoration-none footer-link ps-4" href="proceed.php">Privacy Policy </a>
               </p>
             </div>
            
